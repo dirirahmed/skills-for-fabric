@@ -42,7 +42,7 @@
 | **Blues** (ColorBrewer) | `#EFF3FF` `#BDD7E7` `#6BAED6` `#3182BD` `#08519C` | ✅ All | Default sequential; low-to-high magnitude |
 | **YlOrRd** (ColorBrewer) | `#FFFFB2` `#FECC5C` `#FD8D3C` `#F03B20` `#BD0026` | ⚠️ Deutan marginal | Heat / urgency encoding |
 | **Viridis** | `#440154` `#3B528B` `#21908C` `#5DC863` `#FDE725` | ✅ All | Perceptually uniform; print-safe |
-| **Cividis** | `#002051` `#3F5B75` `#8E8E52` `#CBBE2D` `#FDEA45` | ✅ All + grayscale | Best CVD-safe option; blue-yellow only |
+| **Cividis** | `#00224E` `#434E6C` `#7D7C78` `#BCAE6C` `#FEE838` | ✅ All + grayscale | Best CVD-safe option; blue-yellow only |
 
 ### Diverging Palettes
 
